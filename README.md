@@ -1,5 +1,7 @@
 # zig ld bug repro
 
+zig version: 0.9.0-dev.902+5eb4f3459 (Aug 24)
+
 Compiling with Clang works, but zig ld does not for this library
 
 ```bash
